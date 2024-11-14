@@ -1,4 +1,5 @@
-# Node-EMAIL
+# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzshPNVQCkSQLaJ_7IJgYE7r_-flj0sKxNg&s" height=150 alt="Keep a Changelog" />
+# Node.js
 การส่ง EMAIL โดยใช้ Node
 1. ติดตั้งเพจเกต package พิมพ์ npm i
 2. ใช้เมล แนะนำให้สร้างเมลใหม่จะดีกว่า
